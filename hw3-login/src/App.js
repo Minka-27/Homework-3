@@ -4,7 +4,6 @@ import Home from './home';
 import Login from './login';
 import BadLogin from './badLogin';
 
-
 function App() {
   return (
     <div>
@@ -18,6 +17,7 @@ function App() {
       </BrowserRouter>
     </div>
   );
+  
 }
 
 export default App;
